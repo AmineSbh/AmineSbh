@@ -1,13 +1,12 @@
-<!-- BANNIÈRE -->
+<!-- BANNIÈRE FONCTIONNELLE -->
 <p align="center">
-  <img src="https://i.imgur.com/lzKDYJE.png" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/media/header.png" alt="Amine banner" width="100%" />
 </p>
 
 <h1 align="center">Salut 👋, moi c’est Amine</h1>
 <p align="center">
-  🧠 Passionné par l'IA, la data, l'automatisation, Docker et le développement web.
-  <br>
-  💻 Je construis des outils intelligents pour simplifier la vie numérique.
+  🧠 Passionné par l'IA, la data, l'automatisation, Docker et le développement web.<br>
+  💻 Je crée des outils qui rendent la tech plus intelligente.
 </p>
 
 <p align="center">
@@ -20,52 +19,24 @@
 
 ## 🚀 Mes projets phares
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AmineSbh/App_language_ai">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB2ZW4wOXBvZzVmZWJraGszZGRhZG5yNW1yM3g2OGFxcXQzbmY2ZiZjdD1z/IauL6LvGNlT3ffhcqq/giphy.gif" width="80%" alt="App Language AI"/><br>
-        <strong>🧠 App_language_ai</strong>
-      </a>
-      <p>Discuter avec une IA via une application frontend TypeScript</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AmineSbh/Data-IA">
-        <img src="https://i.imgur.com/VF2RJgN.png" width="80%" alt="Data IA"/><br>
-        <strong>📊 Data-IA</strong>
-      </a>
-      <p>Projets de machine learning, notebooks Jupyter, analyse de données</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AmineSbh/Docker">
-        <img src="https://i.imgur.com/JltT2X9.png" width="80%" alt="Docker"/><br>
-        <strong>🐳 Docker</strong>
-      </a>
-      <p>Environnements Dockerisés pour devs, data science & déploiement</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AmineSbh/Site_web">
-        <img src="https://i.imgur.com/pC1teXU.png" width="80%" alt="Sites Web"/><br>
-        <strong>🌐 Site_web</strong>
-      </a>
-      <p>Collection de sites web construits avec Python, HTML/CSS, Flask</p>
-    </td>
-  </tr>
-</table>
+| Projet | Description | Aperçu |
+|--------|-------------|--------|
+| [**App_language_ai**](https://github.com/AmineSbh/App_language_ai) | Application pour parler avec une IA (TypeScript) | ![AI](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif) |
+| [**Data-IA**](https://github.com/AmineSbh/Data-IA) | Projets de machine learning, notebooks Jupyter | ![ML](https://img.icons8.com/color/96/artificial-intelligence.png) |
+| [**Docker**](https://github.com/AmineSbh/Docker) | Configs et tutos Docker pour devs & data | ![Docker](https://img.icons8.com/color/96/docker.png) |
+| [**Site_web**](https://github.com/AmineSbh/Site_web) | Sites web en Python/HTML/CSS/Flask | ![Web](https://img.icons8.com/color/96/web.png) |
 
 ---
 
-## 🛠️ Techs & outils préférés
+## 🛠️ Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,docker,git,github,jupyter,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,docker,javascript,jupyter,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 Stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmineSbh&show_icons=true&theme=dark" width="48%" />
@@ -77,8 +48,7 @@
 ## 📬 Me contacter
 
 - 📧 **Email** : amine@example.com  
-- 💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil) *(à modifier)*  
-- 🌍 **Site perso** : *(ajoute-le si tu en as un !)*
+- 💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
 
 ---
 
