@@ -1,7 +1,4 @@
 <!-- BANNIÈRE FONCTIONNELLE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/media/header.png" alt="Amine banner" width="100%" />
-</p>
 
 <h1 align="center">Salut 👋, moi c’est Amine</h1>
 <p align="center">
